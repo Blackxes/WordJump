@@ -1,0 +1,1 @@
+module.exports.app = require( "./src/App.js" ).app;
